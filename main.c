@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 #define MAX_TENANTS 100
 #define NAME_LEN 80
 #define PHONE_LEN 24

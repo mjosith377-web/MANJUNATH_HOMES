@@ -8,7 +8,7 @@ A static webpage based on the rental room management program. It includes tenant
 Open `index.html` in a modern browser.
 
 ## Publish with GitHub Pages
-
+ 
 1. Create a GitHub repository and add `index.html` and this `README.md` to the repository's root.
 2. In the repository, open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, select the default branch and the `/ (root)` folder, then save.
